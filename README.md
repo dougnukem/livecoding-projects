@@ -1,6 +1,6 @@
 # livecoding-projects
 
-- **github:** [/dougnukem/livecoding-projects](https://github.com/dougnukem/livecoding-projects)
+- [github.com/dougnukem/livecoding-projects](https://github.com/dougnukem/livecoding-projects)
 
 This is a repo for projects and ideas for things I want to build. I plan on live streaming them.
 
