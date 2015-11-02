@@ -11,14 +11,14 @@ I'm planning on tracking new project ideas using this repos issues:
 
 ### Contact
 
-- **Twitter:**  [@dougnukem](twitter.com/dougnukem)
-- **Github:** @dougnukem
+- **Twitter:**  [@dougnukem](https://twitter.com/dougnukem)
+- **Github:** [@dougnukem](https://github.com/dougnukem/)
 
 ### Live Streaming Channels
 
-- **LiveCoding:** [livecoding.tv/dougnukem](livecoding.tv/dougnukem)
-- **Twitch:** [twitch.tv/dougnukem](twitch.tv/dougnukem)
+- **LiveCoding:** [livecoding.tv/dougnukem](https://livecoding.tv/dougnukem)
+- **Twitch:** [twitch.tv/dougnukem](https://twitch.tv/dougnukem)
 
 **Backup Streams (in case the other streams are laggy) via https://restream.io/:**
-- **YouTube Live:** [tinyurl.com/live-dougnukem](tinyurl.com/live-dougnukem)
-- **Hitbox:** [http://www.hitbox.tv/dougnukem](http://www.hitbox.tv/dougnukem)
+- **YouTube Live:** [tinyurl.com/live-dougnukem](https://tinyurl.com/live-dougnukem)
+- **Hitbox:** [http://www.hitbox.tv/dougnukem](https://www.hitbox.tv/dougnukem)
