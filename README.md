@@ -1,5 +1,7 @@
 # livecoding-projects
 
+[![Join the chat at https://gitter.im/dougnukem/livecoding-projects](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dougnukem/livecoding-projects?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [github.com/dougnukem/livecoding-projects](https://github.com/dougnukem/livecoding-projects)
 
 This is a repo for projects and ideas for things I want to build. I plan on live streaming them.
