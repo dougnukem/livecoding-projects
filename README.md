@@ -1,4 +1,7 @@
 # livecoding-projects
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dougnukem/livecoding-projects?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 
 - [github.com/dougnukem/livecoding-projects](https://github.com/dougnukem/livecoding-projects)
 
